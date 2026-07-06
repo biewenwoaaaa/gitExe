@@ -1,2 +1,2 @@
 
-print("hello world! wo bu hao")
+print("hello world! wei shen me bu hao")
