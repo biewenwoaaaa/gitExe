@@ -17,3 +17,10 @@ push 1
 push 2
 push 3
 push 4
+
+
+emplace 1
+emplace 2
+emplace 3
+emplace 4
+emplace 5
